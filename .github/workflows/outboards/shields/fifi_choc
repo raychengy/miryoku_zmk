@@ -1,0 +1,7 @@
+# Copyright 2023 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=https://github.com/raychengy/fifi-shield-module
+outboard_ref=main
+outboard_from=boards/shields/fifi
+outboard_to=boards/shields/fifi_choc
